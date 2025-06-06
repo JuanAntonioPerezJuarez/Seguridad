@@ -8,7 +8,6 @@
 **Tipo:** Curso  
 **Área de Formación:** Básica Particular  
 **Créditos:** 8  
-**Horas Totales:** 68 (51 teoría + 17 práctica)  
 **Departamento:** Ciencias Computacionales  
 
 ### Descripción
@@ -38,26 +37,26 @@ La seguridad en el área de computación es uno de los tópicos más relevantes 
 
 ### Contenido Temático
 
-#### Unidad 1: Seguridad (16 horas)
+#### Unidad 1: Seguridad 
 - 1.1 Conceptos generales de seguridad en la información
 - 1.2 Medidas de protección física
 - 1.3 Medidas de protección lógica
 
-#### Unidad 2: Almacenamiento (16 horas)
+#### Unidad 2: Almacenamiento 
 - 2.1 Respaldo
 - 2.2 Recuperación
 
-#### Unidad 3: Seguridad en Sistemas (16 horas)
+#### Unidad 3: Seguridad en Sistemas 
 - 3.1 Centros de procesamiento de datos
 - 3.2 Bases de datos
 - 3.3 Comunicaciones de datos
 
-#### Unidad 4: Aspectos Legales y Riesgos (16 horas)
+#### Unidad 4: Aspectos Legales y Riesgos 
 - 4.1 Implicaciones legales en la información
 - 4.2 Identificación de riesgos
 - 4.3 Administración de riesgos
 
-#### Unidad 5: Tecnologías Emergentes (16 horas)
+#### Unidad 5: Tecnologías Emergentes 
 - 5.1 Computación en nube
 - 5.2 BigData
 - 5.3 Internet de las cosas
